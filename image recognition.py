@@ -29,3 +29,5 @@ if os.path.isfile('digits/digit.png'):
     cv2.destroyAllWindows()
 else:
     print("Image file 'digits/digit.png' not found.")
+
+    u
